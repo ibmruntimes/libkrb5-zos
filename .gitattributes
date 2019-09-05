@@ -1,0 +1,5 @@
+* git-encoding=iso8859-1 zos-working-tree-encoding=ibm-1047
+NOTICE git-encoding=iso8859-1 zos-working-tree-encoding=iso8859-1
+README.md git-encoding=iso8859-1 zos-working-tree-encoding=iso8859-1
+.gitattributes   git-encoding=iso8859-1 zos-working-tree-encoding=iso8859-1
+*.a git-encoding=BINARY    zos-working-tree-encoding=BINARY binary
